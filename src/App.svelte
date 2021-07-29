@@ -9,7 +9,7 @@ import RadarIo from './Radar_io.svelte';
 
 <svelte:head>
 	<script defer async
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCo3l2gDAT_SeGV20UtefK_ERRZ_tHygS0
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4dSIefIwd7Jqd-rbWqU-YZXXEnyoOkJY
 	&callback=initMap">
 	</script>
 </svelte:head>
